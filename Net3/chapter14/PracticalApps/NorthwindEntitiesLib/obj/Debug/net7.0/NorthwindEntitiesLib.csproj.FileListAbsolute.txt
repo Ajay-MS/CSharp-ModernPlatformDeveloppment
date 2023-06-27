@@ -1,0 +1,12 @@
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindEntitiesLib\bin\Debug\net7.0\NorthwindEntitiesLib.deps.json
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindEntitiesLib\bin\Debug\net7.0\NorthwindEntitiesLib.dll
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindEntitiesLib\bin\Debug\net7.0\NorthwindEntitiesLib.pdb
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindEntitiesLib\obj\Debug\net7.0\NorthwindEntitiesLib.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindEntitiesLib\obj\Debug\net7.0\NorthwindEntitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindEntitiesLib\obj\Debug\net7.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindEntitiesLib\obj\Debug\net7.0\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindEntitiesLib\obj\Debug\net7.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindEntitiesLib\obj\Debug\net7.0\NorthwindEntitiesLib.dll
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindEntitiesLib\obj\Debug\net7.0\refint\NorthwindEntitiesLib.dll
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindEntitiesLib\obj\Debug\net7.0\NorthwindEntitiesLib.pdb
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindEntitiesLib\obj\Debug\net7.0\ref\NorthwindEntitiesLib.dll

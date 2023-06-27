@@ -1,0 +1,2 @@
+This is debug line
+This is a trace line

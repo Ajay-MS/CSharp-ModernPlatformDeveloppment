@@ -1,0 +1,5 @@
+C:\coderepos\learnCSharp\chapter11\WorkingWithEFCore\obj\Debug\net5.0\WorkingWithEFCore.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\chapter11\WorkingWithEFCore\obj\Debug\net5.0\WorkingWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\chapter11\WorkingWithEFCore\obj\Debug\net5.0\WorkingWithEFCore.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\chapter11\WorkingWithEFCore\obj\Debug\net5.0\WorkingWithEFCore.AssemblyInfo.cs
+C:\coderepos\learnCSharp\chapter11\WorkingWithEFCore\obj\Debug\net5.0\WorkingWithEFCore.csproj.CoreCompileInputs.cache

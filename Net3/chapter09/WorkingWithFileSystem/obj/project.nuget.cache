@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TKc0yDl3vtPf9HYM6/MCytwxpZbrVCbGNiSJel5fcnH5u+em+9u/3nq3Z0hma4Hp3e6w/e0duRNjot9j+1F/jg==",
+  "success": true,
+  "projectFilePath": "C:\\coderepos\\learnCSharp\\chapter09\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajayyadav\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

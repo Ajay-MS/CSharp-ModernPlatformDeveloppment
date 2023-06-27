@@ -1,0 +1,17 @@
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.exe
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.deps.json
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.runtimeconfig.json
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.dll
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\bin\Debug\net7.0\WorkingWithNumbers.pdb
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.AssemblyInfo.cs
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.dll
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\obj\Debug\net7.0\refint\WorkingWithNumbers.dll
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.pdb
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.genruntimeconfig.cache
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\obj\Debug\net7.0\ref\WorkingWithNumbers.dll
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\coderepos\learnCSharp\chapter08\WorkingWithNumbers\obj\Debug\net7.0\WorkingWithNumbers.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UAH2c7P5AB/yH6o8UbXPzVKBdiiriZXUOxqhEpY2k+5x9ia5nitupj8ML49CT+eYxgR4egIxRpuayDx0NQkPpQ==",
+  "success": true,
+  "projectFilePath": "C:\\coderepos\\learnCSharp\\chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajayyadav\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

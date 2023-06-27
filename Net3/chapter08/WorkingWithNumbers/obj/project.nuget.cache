@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bsLDoQIaIq/gcriCr39hLdZ3L5c6jv39vc9v981x732GmRuTNSG6aCKjA7DWxpnOLDQowd4qM3twDm8/j5RexA==",
+  "success": true,
+  "projectFilePath": "C:\\coderepos\\learnCSharp\\chapter08\\WorkingWithNumbers\\WorkingWithNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajayyadav\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

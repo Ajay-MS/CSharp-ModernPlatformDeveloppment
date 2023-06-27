@@ -1,0 +1,15 @@
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\bin\Debug\net7.0\Vocabulary.exe
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\bin\Debug\net7.0\Vocabulary.deps.json
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\bin\Debug\net7.0\Vocabulary.runtimeconfig.json
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\bin\Debug\net7.0\Vocabulary.dll
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\bin\Debug\net7.0\Vocabulary.pdb
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.AssemblyInfo.cs
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.dll
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\obj\Debug\net7.0\refint\Vocabulary.dll
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.pdb
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\obj\Debug\net7.0\Vocabulary.genruntimeconfig.cache
+C:\coderepos\learnCSharp\Net7\chapter2\Vocabulary\Vocabulary\obj\Debug\net7.0\ref\Vocabulary.dll

@@ -1,0 +1,15 @@
+C:\coderepos\learnCSharp\chapter03\operators\bin\Debug\net7.0\operators.exe
+C:\coderepos\learnCSharp\chapter03\operators\bin\Debug\net7.0\operators.deps.json
+C:\coderepos\learnCSharp\chapter03\operators\bin\Debug\net7.0\operators.runtimeconfig.json
+C:\coderepos\learnCSharp\chapter03\operators\bin\Debug\net7.0\operators.dll
+C:\coderepos\learnCSharp\chapter03\operators\bin\Debug\net7.0\operators.pdb
+C:\coderepos\learnCSharp\chapter03\operators\obj\Debug\net7.0\operators.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\chapter03\operators\obj\Debug\net7.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\chapter03\operators\obj\Debug\net7.0\operators.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\chapter03\operators\obj\Debug\net7.0\operators.AssemblyInfo.cs
+C:\coderepos\learnCSharp\chapter03\operators\obj\Debug\net7.0\operators.csproj.CoreCompileInputs.cache
+C:\coderepos\learnCSharp\chapter03\operators\obj\Debug\net7.0\operators.dll
+C:\coderepos\learnCSharp\chapter03\operators\obj\Debug\net7.0\refint\operators.dll
+C:\coderepos\learnCSharp\chapter03\operators\obj\Debug\net7.0\operators.pdb
+C:\coderepos\learnCSharp\chapter03\operators\obj\Debug\net7.0\operators.genruntimeconfig.cache
+C:\coderepos\learnCSharp\chapter03\operators\obj\Debug\net7.0\ref\operators.dll

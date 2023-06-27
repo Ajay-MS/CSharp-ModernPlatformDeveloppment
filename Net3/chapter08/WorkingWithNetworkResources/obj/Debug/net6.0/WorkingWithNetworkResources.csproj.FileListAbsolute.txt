@@ -1,0 +1,15 @@
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.exe
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.deps.json
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.runtimeconfig.json
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.dll
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.pdb
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.AssemblyInfo.cs
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.dll
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\refint\WorkingWithNetworkResources.dll
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.pdb
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.genruntimeconfig.cache
+C:\coderepos\learnCSharp\chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\ref\WorkingWithNetworkResources.dll

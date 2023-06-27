@@ -1,0 +1,17 @@
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.exe
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.deps.json
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.runtimeconfig.json
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.dll
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.pdb
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.AssemblyInfo.cs
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.csproj.CoreCompileInputs.cache
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.dll
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\obj\Debug\net7.0\refint\WorkingWithFileSystem.dll
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.pdb
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.genruntimeconfig.cache
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\obj\Debug\net7.0\ref\WorkingWithFileSystem.dll
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\coderepos\learnCSharp\chapter09\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.csproj.CopyComplete

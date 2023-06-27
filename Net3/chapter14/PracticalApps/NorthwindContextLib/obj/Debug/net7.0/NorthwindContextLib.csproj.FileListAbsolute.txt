@@ -1,0 +1,15 @@
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\bin\Debug\net7.0\NorthwindContextLib.deps.json
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\bin\Debug\net7.0\NorthwindContextLib.dll
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\bin\Debug\net7.0\NorthwindContextLib.pdb
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\bin\Debug\net7.0\NorthwindEntitiesLib.dll
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\bin\Debug\net7.0\NorthwindEntitiesLib.pdb
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\obj\Debug\net7.0\NorthwindContextLib.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\obj\Debug\net7.0\NorthwindContextLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\obj\Debug\net7.0\NorthwindContextLib.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\obj\Debug\net7.0\NorthwindContextLib.AssemblyInfo.cs
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\obj\Debug\net7.0\NorthwindContextLib.csproj.CoreCompileInputs.cache
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\obj\Debug\net7.0\NorthwindContextLib.csproj.CopyComplete
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\obj\Debug\net7.0\NorthwindContextLib.dll
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\obj\Debug\net7.0\refint\NorthwindContextLib.dll
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\obj\Debug\net7.0\NorthwindContextLib.pdb
+C:\coderepos\learnCSharp\chapter14\PracticalApps\NorthwindContextLib\obj\Debug\net7.0\ref\NorthwindContextLib.dll

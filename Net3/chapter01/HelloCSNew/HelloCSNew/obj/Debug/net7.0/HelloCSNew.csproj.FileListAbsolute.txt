@@ -1,0 +1,15 @@
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\bin\Debug\net7.0\HelloCSNew.exe
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\bin\Debug\net7.0\HelloCSNew.deps.json
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\bin\Debug\net7.0\HelloCSNew.runtimeconfig.json
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\bin\Debug\net7.0\HelloCSNew.dll
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\bin\Debug\net7.0\HelloCSNew.pdb
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\obj\Debug\net7.0\HelloCSNew.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\obj\Debug\net7.0\HelloCSNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\obj\Debug\net7.0\HelloCSNew.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\obj\Debug\net7.0\HelloCSNew.AssemblyInfo.cs
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\obj\Debug\net7.0\HelloCSNew.csproj.CoreCompileInputs.cache
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\obj\Debug\net7.0\HelloCSNew.dll
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\obj\Debug\net7.0\refint\HelloCSNew.dll
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\obj\Debug\net7.0\HelloCSNew.pdb
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\obj\Debug\net7.0\HelloCSNew.genruntimeconfig.cache
+C:\coderepos\learnCSharp\chapter01\HelloCSNew\HelloCSNew\obj\Debug\net7.0\ref\HelloCSNew.dll

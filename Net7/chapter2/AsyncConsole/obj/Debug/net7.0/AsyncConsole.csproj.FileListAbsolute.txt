@@ -1,0 +1,15 @@
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\bin\Debug\net7.0\AsyncConsole.exe
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\bin\Debug\net7.0\AsyncConsole.deps.json
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\bin\Debug\net7.0\AsyncConsole.runtimeconfig.json
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\bin\Debug\net7.0\AsyncConsole.dll
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\bin\Debug\net7.0\AsyncConsole.pdb
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\obj\Debug\net7.0\AsyncConsole.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\obj\Debug\net7.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\obj\Debug\net7.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\obj\Debug\net7.0\AsyncConsole.AssemblyInfo.cs
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\obj\Debug\net7.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\obj\Debug\net7.0\AsyncConsole.dll
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\obj\Debug\net7.0\refint\AsyncConsole.dll
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\obj\Debug\net7.0\AsyncConsole.pdb
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\obj\Debug\net7.0\AsyncConsole.genruntimeconfig.cache
+C:\coderepos\learnCSharp\Net7\chapter2\AsyncConsole\obj\Debug\net7.0\ref\AsyncConsole.dll

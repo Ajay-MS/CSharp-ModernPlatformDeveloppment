@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "IaZNkrCj5Tb0Nc7icWZPuBpCFXsZlDDHQo1H2xKSw9E=",
+  "Source": "NorthwindWeb",
+  "BasePath": "_content/NorthwindWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NorthwindWeb\\wwwroot",
+      "Source": "NorthwindWeb",
+      "ContentRoot": "C:\\coderepos\\learnCSharp\\chapter14\\PracticalApps\\NorthwindWeb\\wwwroot\\",
+      "BasePath": "_content/NorthwindWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\coderepos\\learnCSharp\\chapter14\\PracticalApps\\NorthwindEmployees\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NorthwindEmployees.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NorthwindEmployees.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\coderepos\\learnCSharp\\chapter14\\PracticalApps\\NorthwindEmployees\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\coderepos\\learnCSharp\\chapter14\\PracticalApps\\NorthwindEmployees\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.NorthwindEmployees.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.NorthwindEmployees.props",
+      "PackagePath": "build\\NorthwindEmployees.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.NorthwindEmployees.props",
+      "PackagePath": "buildMultiTargeting\\NorthwindEmployees.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.NorthwindEmployees.props",
+      "PackagePath": "buildTransitive\\NorthwindEmployees.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

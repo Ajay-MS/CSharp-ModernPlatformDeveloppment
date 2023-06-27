@@ -1,0 +1,15 @@
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\bin\Debug\net7.0\chapter12.exe
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\bin\Debug\net7.0\chapter12.deps.json
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\bin\Debug\net7.0\chapter12.runtimeconfig.json
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\bin\Debug\net7.0\chapter12.dll
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\bin\Debug\net7.0\chapter12.pdb
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\obj\Debug\net7.0\chapter12.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\obj\Debug\net7.0\chapter12.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\obj\Debug\net7.0\chapter12.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\obj\Debug\net7.0\chapter12.AssemblyInfo.cs
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\obj\Debug\net7.0\chapter12.csproj.CoreCompileInputs.cache
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\obj\Debug\net7.0\chapter12.dll
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\obj\Debug\net7.0\refint\chapter12.dll
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\obj\Debug\net7.0\chapter12.pdb
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\obj\Debug\net7.0\chapter12.genruntimeconfig.cache
+C:\coderepos\learnCSharp\chapter12\LinqWithObjects\obj\Debug\net7.0\ref\chapter12.dll

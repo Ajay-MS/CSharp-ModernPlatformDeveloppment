@@ -1,0 +1,15 @@
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.exe
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.deps.json
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.runtimeconfig.json
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.dll
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.pdb
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.AssemblyInfo.cs
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.csproj.CoreCompileInputs.cache
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.dll
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\obj\Debug\net6.0\refint\WorkingWithReflection.dll
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.pdb
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.genruntimeconfig.cache
+C:\coderepos\learnCSharp\chapter08\WorkingWithReflection\obj\Debug\net6.0\ref\WorkingWithReflection.dll
