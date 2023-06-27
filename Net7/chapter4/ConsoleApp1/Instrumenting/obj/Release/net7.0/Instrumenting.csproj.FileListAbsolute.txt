@@ -1,0 +1,15 @@
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\bin\Release\net7.0\Instrumenting.exe
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\bin\Release\net7.0\Instrumenting.deps.json
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\bin\Release\net7.0\Instrumenting.runtimeconfig.json
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\bin\Release\net7.0\Instrumenting.dll
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\bin\Release\net7.0\Instrumenting.pdb
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\obj\Release\net7.0\Instrumenting.csproj.AssemblyReference.cache
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\obj\Release\net7.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\obj\Release\net7.0\Instrumenting.AssemblyInfoInputs.cache
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\obj\Release\net7.0\Instrumenting.AssemblyInfo.cs
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\obj\Release\net7.0\Instrumenting.csproj.CoreCompileInputs.cache
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\obj\Release\net7.0\Instrumenting.dll
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\obj\Release\net7.0\refint\Instrumenting.dll
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\obj\Release\net7.0\Instrumenting.pdb
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\obj\Release\net7.0\Instrumenting.genruntimeconfig.cache
+C:\coderepos\learnCSharp\Net7\chapter4\ConsoleApp1\Instrumenting\obj\Release\net7.0\ref\Instrumenting.dll
